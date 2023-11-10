@@ -13,7 +13,7 @@ custom_js:
 
 # Total Bigfoot Sightings by State
 
-<vegachart schema-url="{{ site.baseurl }}/assets/json/CHART.json" style="width: 50%"></vegachart>
+<vegachart schema-url="{{ site.baseurl }}/assets/json/CHART.json" style="width: 75%"></vegachart>
 
 # Wind Speed vs. Wind Bearing (Interactive)
 
