@@ -11,13 +11,14 @@ custom_js:
 ---
 
 
-# Bigfoot Sightings Dataset
+# Total Bigfoot Sightings by State
 
+<vegachart schema-url="{{ site.baseurl }}/assets/json/chart1.json" style="width: 100%"></vegachart>
 
-<vegachart schema-url="{{ site.baseurl }}/assets/json/jsonchart.json" style="width: 100%"></vegachart>
+# Wind Speed vs. Wind Bearing (Interactive)
 
+<vegachart schema-url="{{ site.baseurl }}/assets/json/jsonchart2.json" style="width: 100%"></vegachart>
 
-## Data and Analysis
 
 <div class="left">
 {% include elements/button.html link="https://raw.githubusercontent.com/UIUC-iSchool-DataViz/is445_data/main/bfro_reports_fall2022.csv" text="The Data" %}
